@@ -11,7 +11,7 @@
     },
     "body": {
       "loremParagraphs": {
-        "minLength": 10,
+        "minLength": 100,
         "maxLength": 100
       }
     },
